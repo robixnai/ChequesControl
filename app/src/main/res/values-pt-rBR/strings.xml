@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Controle de Cheques</string>
+
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="msg_add_success">Adicionado com sucesso</string>
+    <string name="msg_edit_success">Alterado com sucesso</string>
+    <string name="lbl_share">Compartilhar</string>
+    <string name="lbl_options">Opções</string>
+    <string name="lbl_share_option">Compartilhar</string>
+    <string name="lbl_call">Ligar</string>
+    <string name="lbl_edit">Alterar</string>
+    <string name="lbl_delete">Excluir</string>
+    <string name="lbl_confirm">Confirmar</string>
+    <string name="lbl_yes">Sim</string>
+    <string name="lbl_no">Não</string>
+</resources>
